@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "This is my blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "blog",
+    "fastify",
+    "hashnode"
+  ],
+  "author": "William Chanchavac",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^3.24.0"
+  }
+}
